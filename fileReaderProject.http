@@ -1,0 +1,6 @@
+@fileReaderProject_HostAddress = http://localhost:5002
+
+GET {{fileReaderProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
